@@ -8,9 +8,9 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Semantic HTML5;
+- CSS custom properties;
+- Flexbox.
 
 ## Author
 
