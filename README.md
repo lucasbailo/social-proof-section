@@ -4,7 +4,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](../Social%20Section/screenshot.png)
 
 ### Built with
 
