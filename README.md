@@ -18,4 +18,5 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Website - [Lucas Bailo](https://github.com/lucasbailo)
 - Frontend Mentor - [@lucasbailo](https://www.frontendmentor.io/profile/lucasbailo)
-- Instagram - [@lucassbailo]
+- Instagram - [@lucassbailo](https://www.instagram.com/lucassbailo/)
+- LinkedIn - [Lucas Bailo](https://www.linkedin.com/in/lcsbailo/)
