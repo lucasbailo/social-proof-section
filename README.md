@@ -6,6 +6,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ![](../Social%20Section/screenshot.png)
 
+## Test the project on your device: [Teste the project here!!!](https://social-proof-section-xi-one.vercel.app/)
+
 ### Built with
 
 - Semantic HTML5;
